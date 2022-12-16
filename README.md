@@ -43,12 +43,10 @@ Let's not be conceited!
 </div><br>
 <hr> 
 <div align="center">
-  <div>
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlueUmb&show_icons=true&theme=radical) 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueUmb&layout=compact&theme=dracula)](https://github.com/metleeha)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Purplaying-Main&repo=Purplaying&theme=dracula)](https://github.com/Purplaying-Main/Purplaying)
-  </div>
-
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlueUmb&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueUmb&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Purplaying-Main&repo=Purplaying&theme=dracula)](https://github.com/Purplaying-Main/Purplaying)
   </div>
 <!--
 **xnlrlal/xnlrlal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
