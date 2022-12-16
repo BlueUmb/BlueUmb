@@ -1,5 +1,5 @@
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Seongho&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=SeungHoon&fontSize=90" />
 </div>
 <div align="center">
 Developers looking to the future rather than the present
