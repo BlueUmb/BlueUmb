@@ -6,7 +6,7 @@ Developers looking to the future rather than the present
   
 Hi there 👋
 
-"대기만성형 끈기있는 개발자 김성호입니다."
+"대기만성형 끈기있는 개발자 한승훈입니다."
 
 Let's not be conceited! 
  
@@ -44,8 +44,8 @@ Let's not be conceited!
 <hr> 
 <div align="center">
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xnlrlal&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnlrlal&layout=compact&theme=dracula)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlueUmb&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueUmb&layout=compact&theme=dracula)](https://github.com/metleeha)
 
   </div>
 <!--
