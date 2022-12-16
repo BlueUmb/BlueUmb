@@ -46,6 +46,7 @@ Let's not be conceited!
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlueUmb&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueUmb&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Purplaying-Main&repo=Purplaying)](https://github.com/Purplaying-Main/Purplaying)
 
   </div>
 <!--
