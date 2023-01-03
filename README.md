@@ -17,9 +17,7 @@ Let's not be conceited!
 </div> 
 <hr> 
 <div align="center">
-❤️ I love...
-  
-📸사진🏂스노우보드  
+
 </div>
 <hr> 
 <br> 
